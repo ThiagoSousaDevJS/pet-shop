@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+.banner {
+    width: 100%;
+    height: auto;
+    padding: 120px 80px;
+    text-align: center;
+    background-image: url('img/banner-topo.jpg');
+    background-size: cover;
+    background-position: 20%;
+}
+
+.logo {
+    max-width: 250px;
+    color:  #3c184e;
+    
+}
+.logo h3, .logo img {
+    display: inline;
+}
+
+.logo h3 {
+    font-size: 35px;
+    margin: 0 0 5px 0;
+}
+
+
+.banner .logo img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.text {
+    max-width: 1024px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow: 0px 8px 320px #1f26875e;
+
+}
+
+.text h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.text a {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: #3c184e;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.text img {
+    width: 20px;
+}
+
+.text p {
+    display: inline;
+    color: #ffff;
+}
+
+.serviço {
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.serviço h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+ul {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+span {
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+li {
+    font-size:  20px;
+    margin: 0 0 20px 0;
+}
+
+.pet {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.sociais {
+    padding: 120px 80px;
+    background:  #3c184e;
+    text-align: center;
+}
+
+.sociais p {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+
+}
+
+.sociais div {
+    text-align: center;
+}
+
+.sociais a {
+    text-decoration: none;
+    margin: 0 20px;
+
+}
+
+.sociais a img {
+    width: 50px;
+    height: 50px;
+
+}
+
+.marcas {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+
+}
+
+.marcas h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.marcas marcas4 {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    
+}
+
+.marcas .marcas4 img {
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+.local {
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+
+.local h3 {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.local p {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.local iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.rodape p {
+    color: #fff;
+    font-size:  12px;
+    text-align: center;
+}

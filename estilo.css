@@ -196,12 +196,12 @@ li {
 
 .rodape {
     width: 100%;
-    padding: 10px 0;
+    padding: 60px 0;
     background-color: #3c184e;
 }
 
 .rodape p {
     color: #fff;
-    font-size:  12px;
+    font-size:  22px;
     text-align: center;
 }

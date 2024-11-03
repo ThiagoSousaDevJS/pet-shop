@@ -12,6 +12,7 @@
 O site da Pet Boutique foi desenvolvido com o objetivo de divulgar os serviços e produtos oferecidos pela loja, proporcionando uma experiência agradável e funcional para os clientes.
 
 Principais Funcionalidades:
+
 Contato Direto: Um link "Fale Conosco" que direciona os clientes diretamente para o WhatsApp da loja, facilitando a comunicação e o atendimento.
 
 Parcerias: Uma seção dedicada aos parceiros da Pet Boutique, promovendo colaborações e destacando produtos e serviços adicionais.

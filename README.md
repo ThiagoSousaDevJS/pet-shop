@@ -6,7 +6,7 @@
 
 ## Link do Projeto
 
- https://thiago20971.github.io/pet-shop/
+ [https://thiago20971.github.io/pet-shop/](https://thiagosousadevjs.github.io/pet-shop/)
 # Pet Boutique
 
 O site da Pet Boutique foi desenvolvido com o objetivo de divulgar os serviços e produtos oferecidos pela loja, proporcionando uma experiência agradável e funcional para os clientes.
